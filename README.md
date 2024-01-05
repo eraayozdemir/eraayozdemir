@@ -1,6 +1,6 @@
 [![MasterHead](https://assets-global.website-files.com/5e9aa66fd3886aa2b4ec01ca/6507a9857dd32ba394160042_19.%20What%20is%20Software%20Engineering.png)
 <h1 align="center">Hi 👋, I'm Eray Özdemir</h1>
-<h3 align="center">A passionate software developer from Türkiye</h3>
+<h3 align="center">A passionate mobile developer from Türkiye</h3>
 
 - 🔭 I’m currently working on **Java - Kotlin**
 
